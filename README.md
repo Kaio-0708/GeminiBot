@@ -12,3 +12,9 @@ Interactive chat loop that allows the user to send prompts and receive responses
 
 History Display: 
 Formatting and displaying message history in Markdown format.
+
+
+
+Example of usability:
+![Captura de tela 2024-05-24 152716](https://github.com/Kaio-0708/GeminiBot/assets/123708201/953e4ba2-2112-444b-a867-d03234397572)
+![Captura de tela 2024-05-24 152754](https://github.com/Kaio-0708/GeminiBot/assets/123708201/fcfd1633-6656-4f4e-b765-4ab5c4837c4c)
