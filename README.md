@@ -6,7 +6,9 @@ Functionalities
 
 Configuration and Use of the Gemini Model:
 Integration with the Gemini AI model for content generation.
+
 Dynamic Interaction: 
 Interactive chat loop that allows the user to send prompts and receive responses in real time.
+
 History Display: 
 Formatting and displaying message history in Markdown format.
